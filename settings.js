@@ -66,7 +66,7 @@ global.APIs = {
 	naze: 'https://api.naze.biz.id',
 }
 global.APIKeys = {
-	'https://api.naze.biz.id': 'YOUR_API_KEY',
+	'https://api.naze.biz.id': 'nz-a4b04a0a67',
 }
 
 // Lainnya
@@ -82,3 +82,4 @@ fs.watchFile(file, () => {
 	require(file)
 
 });
+
